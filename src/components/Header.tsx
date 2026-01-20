@@ -5,7 +5,7 @@ const Header: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
-  const whatsappNumber = "51925640929";
+  const whatsappNumber = "51925640292";
   const groupLink = "https://chat.whatsapp.com/LBIZh3Dnf3MJp9NbC1r7Sh";
 
   // Detectar scroll para cambiar estilo del header

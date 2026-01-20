@@ -7,7 +7,7 @@ import Schedule from './components/Schedule';
 import Footer from './components/Footer';
 
 const App: React.FC = () => {
-  const whatsappNumber = "51925640929";
+  const whatsappNumber = "51925640292";
   const groupLink = "https://chat.whatsapp.com/LBIZh3Dnf3MJp9NbC1r7Sh";
 
   return (

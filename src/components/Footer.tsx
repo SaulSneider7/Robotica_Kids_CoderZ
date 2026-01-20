@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Footer: React.FC = () => {
-  const whatsappNumber = "51925640929";
+  const whatsappNumber = "51925640292";
   const groupLink = "https://chat.whatsapp.com/LBIZh3Dnf3MJp9NbC1r7Sh";
   const devWebsite = "https://tu-sitioweb.com";
 
