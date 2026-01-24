@@ -2,8 +2,8 @@
 import React from 'react';
 
 const QuickLinks: React.FC = () => {
-  const teamsLink = "https://teams.microsoft.com/l/meetup-join/your_link_here"; 
-  const driveLink = "https://drive.google.com/drive/folders/your_folder_id";
+  const teamsLink = "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzA2NjhmMDEtNTg0ZS00NDE5LWJiZWYtMDE1YmQ4NGU5MDIy%40thread.v2/0?context=%7b%22Tid%22%3a%22b4a40545-7779-4b38-aff7-1f1738f80840%22%2c%22Oid%22%3a%228f8ed7f3-119f-4166-9bac-3c857da41764%22%7d"; 
+  const driveLink = "https://drive.google.com/drive/folders/1mju6MU6fzv075rhAxnwSBWYheWvrn1jS?usp=sharing";
   const coderzLink = "https://play.gocoderz.com/";
 
   return (
